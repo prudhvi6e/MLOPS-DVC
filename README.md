@@ -1,1 +1,1 @@
-# MLOps-DVC
+# mlops_tutorial2
