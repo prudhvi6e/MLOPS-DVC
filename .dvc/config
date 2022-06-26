@@ -1,0 +1,6 @@
+[core]
+    remote = storage
+['remote "bikes"']
+    url = s3://updatedbikedata
+['remote "storage"']
+    url = gdrive://1V2H1aYxxFG2IQoYHsNqFXyHKgpC9Yo4s
