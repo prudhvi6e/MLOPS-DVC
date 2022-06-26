@@ -1,1 +1,1 @@
-# mlops_tutorial2
+# mlops_practise
